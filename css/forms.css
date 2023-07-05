@@ -22,7 +22,7 @@ form>div {
 }
 
 input:required {
-      border: 1px solid red;
+      border: 1px solid rgb(223, 7, 7);
 }
 
 input:optional, textarea:optional {
